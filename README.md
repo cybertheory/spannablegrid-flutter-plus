@@ -2,7 +2,7 @@
 <a href="https://pub.dev/packages/spannable_grid"><img src="https://img.shields.io/badge/pub-0.3.0-yellow" alt="pub version"></a>&nbsp;<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License"></a>
 
 The **SpannableGrid** is a Flutter widget that allows its cells to span columns
-and rows and supports moving cells inside the grid.
+and rows and supports moving cells inside the grid. **spannable_grid_responsive** is a Flutter package that extends **SpannableGrid** and adds the option of responsive editing, where cells resize and automatically take up the maximum cells available, vertically or horizontally!
 
 ![SpannableGrid Demo](./assets/spannablegrid-001.gif)
 
